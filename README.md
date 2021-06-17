@@ -20,13 +20,13 @@ WindGustSpeed,
 WindDir9am
 
 # Accuracy on test set
-KNN Accuracy : 
+# KNN Accuracy : 
 83.05719785508043
-Random Forest Accuracy : 
+# Random Forest Accuracy : 
 85.21930427608964
-Decision Tree Accuracy : 
+# Decision Tree Accuracy : 
 78.83266877492095
-Logistic Regression Accuracy : 
+# Logistic Regression Accuracy : 
 84.08840918465557
 
 
