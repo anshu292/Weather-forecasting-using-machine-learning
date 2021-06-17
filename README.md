@@ -8,25 +8,25 @@ RainTomorrow is the target variable to predict. It means -- did it rain the next
 This column is Yes if the rain for that day was 1mm or more.
 
 # Parameters
-Date
-Location
-MinTemp
-MaxTemp
-Rainfall
-Evaporation
-Sunshine
-WindGustDir
-WindGustSpeed
+Date,
+Location,
+MinTemp,
+MaxTemp,
+Rainfall,
+Evaporation,
+Sunshine,
+WindGustDir,
+WindGustSpeed,
 WindDir9am
 
 # Accuracy on test set
-# KNN Accuracy : 
+KNN Accuracy : 
 83.05719785508043
-# Random Forest Accuracy : 
+Random Forest Accuracy : 
 85.21930427608964
-# Decision Tree Accuracy : 
+Decision Tree Accuracy : 
 78.83266877492095
-# Logistic Regression Accuracy : 
+Logistic Regression Accuracy : 
 84.08840918465557
 
 
