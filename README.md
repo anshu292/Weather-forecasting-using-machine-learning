@@ -20,7 +20,7 @@ WindGustSpeed,
 WindDir9am
 
 # 
-The parameters such as date which has nearly zero contribution in predicting the weather is not taken as part of featues for machine learning model.
+ I have not taken the parameters such as date (which has nearly zero contribution in predicting the weather) for machine learning model feature selection.
 
 # Accuracy on test set
 # KNN Accuracy : 
