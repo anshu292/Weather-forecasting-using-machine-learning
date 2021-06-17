@@ -19,6 +19,9 @@ WindGustDir,
 WindGustSpeed,
 WindDir9am
 
+# 
+The parameters such as date which has nearly zero contribution in predicting the weather is not taken as part of featues for machine learning model.
+
 # Accuracy on test set
 # KNN Accuracy : 
 83.05719785508043
@@ -28,6 +31,8 @@ WindDir9am
 78.83266877492095
 # Logistic Regression Accuracy : 
 84.08840918465557
+# Naive Byes Accuracy : 
+80.31417571841057
 
 
 
